@@ -1,0 +1,259 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lalbaugcha Raja Ganpati",
+        "Number of Days": "10",
+        "Location": "Lalbaug market, GD Goenka Road, Lalbaug",
+        "Nearest Station": "Western line: Lower Parel, Harbour line: Cotton Green, Central line: Currey Road/ Chinchpokli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83689856529236,
+          18.98514616905589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mumbaicha Raja",
+        "number of days": "10",
+        "Location": "Ganesh Galli, Lalbaug",
+        "Nearest Station": "Western line: Lower Parel, Central line: Currey Road, Harbour Line: Sewri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83610731363295,
+          18.98444107484324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tejukaya",
+        "number of days": "10",
+        "Location": "Tejukaya lane, Lalbaug",
+        "Nearest Station": "Western line: Lower Parel, Central line: Currey Road, Harbour Line: Sewri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8347259759903,
+          18.98448926483052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "khetwadi 10vi galli",
+        "number of days": "10",
+        "Location": "10th Khetwadi, Girgaon",
+        "Nearest Station": "Western line: Charni Road, Central line: Sandhurst Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82263994216919,
+          18.960661420356338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "khetwadi 12vi galli",
+        "number of days": "10",
+        "Location": "12th Lane Khetwadi, Girgoan",
+        "Nearest Station": "Western line: Charni Road, Central line: Sandhurst Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82139003276825,
+          18.96098611474829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinchpokli",
+        "number of days": "10",
+        "Location": "Dattaram Lad Marg, Outside Chinchpokli station",
+        "Nearest Station": "Chinchpokli station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83330172300339,
+          18.988100937874172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parel cha Raja",
+        "number of days": "10",
+        "Location": "Nare park, Parel",
+        "Nearest Station": "Western line: Prabhadevi, Central line: Parel, Harbour Line: Sewri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83870100975037,
+          18.999949921712485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Currey Road cha Raja",
+        "number of days": "10",
+        "Location": "Station Road, Currey Road",
+        "Nearest Station": "Western line: Lower Parel, Central line: Currey Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83315420150757,
+          18.994928409115495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elphinstone Road cha Raja",
+        "number of days": "10",
+        "Location": "Station Road, Elphinstone",
+        "Nearest Station": "Western line: Prabhadevi, Central line: Parel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83697366714476,
+          19.006660251981888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swami Narayan Mandir Ganpati",
+        "number of days": "10",
+        "Location": "Swami Gyan Jiwandas Marg, Dadar",
+        "Nearest Station": "Western line: Dadar, Central line: Dadar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8445267677307,
+          19.01752909388776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siddhivinayak Mandir Mandal",
+        "number of days": "NA",
+        "Location": "Sidhivinayak mandir, Dadar",
+        "Nearest Station": "Western line: Prabhadevi, Central line: Dadar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83627092838287,
+          19.02263106765683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalachowki cha MahaRaja",
+        "number of days": "10",
+        "Location": "dattaram Lad Path, Kalachowki",
+        "Nearest Station": "Harbour line: Cotton Green, Central line: Chinchpokali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83891558647156,
+          18.98781180401216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Cha Raja",
+        "number of days": "10",
+        "Location": "Dwarkadas Lane, Fort",
+        "Nearest Station": "Central line: Chatrapati Shivaji Maharaj Terminus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83602952957153,
+          18.93745935558171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Girgaon cha MahaRaja",
+        "number of days": "10",
+        "Location": "Thakurdwar Lane, Girgaon",
+        "Nearest Station": "Western line: Charni Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82314419746399,
+          18.952391647007243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Girgaum Chowpatty(Ganpati Visarjan Sthal)",
+        "Location": "Girgaum Chowpatty Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81317710876465,
+          18.955090783744605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sewri cha MahaRaja",
+        "number of days": "10",
+        "Location": "Skanjekar Path, Sewri",
+        "Nearest Station": "Habour line: Sewri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85359263420105,
+          19.0008071142777
+        ]
+      }
+    }
+  ]
+}

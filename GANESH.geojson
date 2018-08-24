@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "marketyardcha raja",
+	"Number of Days" : "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.11126708984375,
+          18.980689821995824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "M.S.R.T.C panvel sarvajanik Ganpati",
+	"Number of Days" : "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.11630427837372,
+          18.99023391865796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raigadcha raja",
+	"Number of Days" : "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.11180889606476,
+          19.00374892499952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khargharcha raja ganesh mandir",
+	"Number of Days" : "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06594848632812,
+          19.041090180733185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sanpadyacha maharaja sarvajanik ganesh utsav",
+	"Number of Days" : "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01620423793793,
+          19.059083304873134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vashicha raja, sarvajanik ganesh utsav",
+	"Number of Days" : "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99616813659668,
+          19.071041301740895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Yuva ganesh utsav Mandal",
+	"Number of Days" : "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98739731311798,
+          19.073429248659906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Airoli cha sukhakarta Ganesh utsav",
+	"Number of Days" : "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99569606781006,
+          19.15581005582964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Airolicha Raja",
+	"Number of Days" : "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99878597259521,
+          19.154634417447518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+	"Name" : "akhil diva airoli ganeshotsav mandal",
+	"Number of Days" : "10"
+},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99275636672974,
+          19.145066841861805
+        ]
+      }
+    }
+  ]
+}

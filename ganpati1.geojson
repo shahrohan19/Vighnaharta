@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "guru ganesh seva mandal",
+        "Location": "GTB nagar",
+        "nearest stations": "sion,gtb nagar",
+        "number of days": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8612208366394,
+          19.036298108162413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kurla cha raja",
+        "Location": "subhash nagar, kurla",
+        "nearest stations": "kurla",
+        "number of days": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87672400474548,
+          19.067684936016747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "barrack cha raja",
+        "Location": "chembur camp,chembur",
+        "nearest stations": "chembur",
+        "number of days": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90510177612305,
+          19.056297122372108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wadi cha raja",
+        "Location": "kurla east",
+        "nearest stations": "kurla",
+        "number of days": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.88570404052734,
+          19.06463271362298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mankhurd cha raja",
+        "Location": "mankhurd",
+        "nearest stations": "mankhurd",
+        "number of days": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93668746948242,
+          19.045973388576385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cotton green cha raja",
+        "Location": "cotton green",
+        "nearest stations": "cotton green,sewri",
+        "number of days": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84508466720581,
+          18.983997219041665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "reay road cha raja",
+        "Location": "reay road",
+        "nearest stations": "reay road,mazagaon",
+        "number of days": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83935546875,
+          18.968068353872862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name": "altamount road cha raja",
+        "Location": "tardeo",
+        "nearest stations": "mumbai central",
+        "number of days": "10"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82336950302124,
+          18.966668164266206
+        ]
+      }
+    }
+  ]
+}

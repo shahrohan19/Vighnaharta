@@ -1,0 +1,168 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jolly Boys Sarvajanik ganesh mandal",
+	"number of days": "10",
+        "Location": "LBS Road",
+        "Nearest Station": "Bandra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82716751098633,
+          19.048234929409272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Andheri Cha Raja",
+	"number of days": "10",
+        "Location": "Near Andheri Station",
+        "Nearest Station": "Andheri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83685564994812,
+          19.129655189855786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Koldongari Sarvajanik Ganeshotsav Mandal",
+	"number of days": "10",
+        "Location": "Dattaram Lad Marg, Outside Chinchpokli station",
+        "Nearest Station": "Chinchpokli station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85954713821411,
+          19.11303575325617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "BalMitra Ganeshotsav Mandal vile parle",
+         "number of days": "10",
+        "Location": "Near Vile Parle Station",
+        "Nearest Station": "Vile Parle"
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84246683120728,
+          19.098761673907003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Natraj Market Ganeshotsav Mandal, Malad",
+        "number of days": "10",
+        "Location": "Malad",
+        "Nearest Station": "Malad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84714460372923,
+          19.18554281155542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shree Ganesh Mitra Mandal, RaiPada",
+        "number of days": "10",
+        "Location": "Raipada, Malad west",
+        "Nearest Station": "Malad"
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84643650054932,
+          19.181226118608816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jay Hind Ganeshotsav Mandal, Goregaon",
+	 "number of days": "10",
+        "Location": "Link Road, Goregaon",
+        "Nearest Station": "Goregaon"
+  	
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83594369888306,
+          19.16157664342255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jogeshwari Sarvajanik Ganeshotsav Mandal,Jogeshwari",
+	 "number of days": "10",
+        "Location": "RTR Road ",
+        "Nearest Station": "Jogeshwari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85894095897675,
+          19.13010625830795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shree Sai Dham Seva Mandal",
+	 "number of days": "10",
+        "Location": "RBS Road",
+        "Nearest Station": "Santacruz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79214859008789,
+          19.13529599097817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Morya Mitra Mandal, Santacruz",
+	 "number of days": "10",
+        "Location": "Station Road, Santacruz",
+        "Nearest Station": "Santacruz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84366846084595,
+          19.081657515518206
+        ]
+      }
+    }
+  ]
+}
